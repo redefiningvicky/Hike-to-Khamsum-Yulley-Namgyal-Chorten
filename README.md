@@ -1,6 +1,6 @@
 # 🏞️ Hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan
 ## 🎯 Objective <br>
-This project focuses on mapping the hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan, using ArcGIS Field Maps and ArcGIS Dashboards. It tracks the entrance and exit trails, visualizes geographic information, and includes details such as photographs and hike difficulty. <p>
+This project focuses on mapping the hike to Khamsum Yulley Namgyal Chorten in Punakha District, Bhutan. It tracks the entrance and exit trails, visualizes geographic data, and provides details such as photographs and hike difficulty. <p>
 ## 🛠️ Tools <br>
 • <b>GIS:</b> ArcGIS Online, ArcGIS Field Maps, ArcGIS Dashboards <p>
 ## 🌐 Website <br>
