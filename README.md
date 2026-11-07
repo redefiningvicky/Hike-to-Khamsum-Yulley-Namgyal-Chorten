@@ -225,10 +225,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      <img src="Images_Exit/Image_Exit_13.jpg" alt="Exit Trail 13" width="33%" />
+    <td width="33%">
+      <img src="Images_Exit/Image_Exit_13.jpg" alt="Exit Trail 13" width="100%" />
     </td>
-  </tr>
 </table>
 
 <hr>
